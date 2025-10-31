@@ -10,7 +10,7 @@ Requires Python 3.6+. No external dependencies needed.
 
 Run the app:
 ```bash
-python todo.py
+python to_do.py
 ```
 
 ### Commands
